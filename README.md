@@ -4,7 +4,7 @@
 
 ##Created by 
 
-Jing Wang (jw998@rutgers.edu) and Jie Shen (js2007@rutgers.edu)
+Jing Wang (jw998@rutgers.edu)
 
 ## Reference
 
@@ -19,8 +19,13 @@ Jing Wang (jw998@rutgers.edu) and Jie Shen (js2007@rutgers.edu)
 ```
 ## Contents
 
-* Algorithm 1 in "Object Proposal with Kernelized Partial Ranking":anyfeature_to_cws.m
+* Algorithm 1 in "Object Proposal with Kernelized Partial Ranking":
+  anyfeature_to_cws.m
 
+## Update:
+* git add -A
+* git commit -a -m "PR"
+* git push -u origin master
 
 </content>
   <tabTrigger>readme</tabTrigger>
