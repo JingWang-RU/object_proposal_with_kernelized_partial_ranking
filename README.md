@@ -22,7 +22,7 @@ Jing Wang (jw998@rutgers.edu)
 * Algorithm 1 in "Object Proposal with Kernelized Partial Ranking":
   anyfeature_to_cws.m
 
-## Update:
+## Upload:
 * git add -A
 * git commit -a -m "PR"
 * git push -u origin master
