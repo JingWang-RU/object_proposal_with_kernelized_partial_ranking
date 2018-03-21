@@ -18,5 +18,5 @@ If you find this work useful in your research, please consider citing:
     journal={Pattern Recognition},
     year={2017},
     publisher={Elsevier}
-    }
+}
 ```
