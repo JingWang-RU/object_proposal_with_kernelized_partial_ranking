@@ -1,32 +1,22 @@
-<snippet>
-  <content>
-# Object proposal with kernelized partial ranking
 
-##Created by 
+# [Object Proposal with Kernelized Partial Ranking](https://www.sciencedirect.com/science/article/pii/S0031320317301334)
 
-Jing Wang (jw998@rutgers.edu)
 
-## Reference
-
-```
-@article{wang2017object,
-  title={Object Proposal with Kernelized Partial Ranking},
-  author={Wang, Jing and Shen, Jie and Li, Ping},
-  journal={Pattern Recognition},
-  year={2017},
-  publisher={Elsevier}
-}
-```
 ## Contents
 
-* Algorithm 1 in "Object Proposal with Kernelized Partial Ranking":
-  anyfeature_to_cws.m
+* anyfeature_to_cws.m: Algorithm 1 in "Object Proposal with Kernelized Partial Ranking"
+* plot functions for figures in the paper
 
-## Upload:
-* git add -A
-* git commit -a -m "PR"
-* git push -u origin master
+## Reference paper
 
-</content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+If you find this work useful in your research, please consider citing:
+
+```
+    @article{wang2017object,
+        title={Object Proposal with Kernelized Partial Ranking},
+        author={Wang, Jing and Shen, Jie and Li, Ping},
+        journal={Pattern Recognition},
+        year={2017},
+        publisher={Elsevier}
+        }
+```
