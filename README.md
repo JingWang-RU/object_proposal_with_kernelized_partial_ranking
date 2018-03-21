@@ -4,8 +4,8 @@
 
 ## Contents
 
-* anyfeature_to_cws.m: Algorithm 1 in the paper
-* plot functions for figures in the paper
+* Algorithm 1: `anyfeature_to_cws.m`
+* Ploting functions: such as `linear_cws_hog_rcnn.m` ploting recall curves of CWS and linear kernel with the increase of IOU.
 
 ## Reference paper
 
