@@ -10,7 +10,7 @@
 
 `rcnn_to_chi2_train.m`
 
-> Generate Chi2 kernel feature representation from CNN Descriptor for Training samples and save the result as directory F:/Jing/SS/rcnn_chi2_train/ chi2_ss_train_000012.mat
+> Generate Chi2 kernel feature representation from CNN Descriptor for Training samples and save the result as F:/Jing/SS/rcnn_chi2_train/ chi2_ss_train_000012.mat
 
 `rcnn_to_chi2_test.m`
 
